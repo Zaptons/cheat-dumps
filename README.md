@@ -29,9 +29,9 @@
 
 
 
-Well, let's be honest. We all have developers advertising the same crappy pasted products. I don't target projects out of spite, but more as in the fact I despise the influx of tiktok live streams and obvious pasters ruining something meant to take skill.
+Well, let's be honest. We have all seen developers advertising the same crappy pasted products. I don't target projects out of spite, but more as in the fact I despise the influx of tiktok live streams and obvious pasters ruining something meant to take skill.
 
-This is also a way for other general developers and potential AntiCheat developers to find out and easily patch various projects.
+This is also a way for other general developers and potential AntiCheat developers to find out and easily patch various projects, whilst it's also fun seeing what countermeasures developers use to counter reverse engineering.
 
 
 
