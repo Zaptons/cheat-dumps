@@ -37,9 +37,7 @@ This is also a way for other general developers and potential AntiCheat develope
 
 
 
-
-
-
+NOTHING INSIDE THIS REPOSITORY IS SUPPOSED TO BE RAN!
 
 
 
